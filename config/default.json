@@ -1,0 +1,10 @@
+{
+  "port": 3000,
+  "jwtPrivateKey": "it_does_not_matter_what_the_weather_is",
+  "mongoURI": "mongodb+srv://ntare:passwordmongodb1@atlascluster.88zy0c0.mongodb.net/shopping-api",
+  "email": {
+    "service": "gmail",
+    "user": "benmu91@gmail.com",
+    "password": "benmu14201185"
+  }
+}

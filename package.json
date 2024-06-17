@@ -1,0 +1,24 @@
+{
+  "name": "shopping-api",
+  "version": "1.0.0",
+  "description": "A shopping API with Node.js, MongoDB, and more",
+  "main": "app.js",
+ "scripts": {
+  "start": "set DEBUG=app:* && node app.js"
+},
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.11",
+    "debug": "^4.3.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-errors": "^3.1.1",
+    "joi": "^17.13.1",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.13.0",
+    "nodemailer": "^6.9.13",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
